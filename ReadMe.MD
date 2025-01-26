@@ -38,8 +38,8 @@ This project is a **real-time chat application** powered by **Node.js, Express, 
 
 ### Prerequisites
 
-- Node.js (>= 16.x)
-- npm (or yarn)
+- Node.js (>= 18.x)
+- yarn
 
 ### Backend Setup
 
@@ -67,8 +67,11 @@ This project is a **real-time chat application** powered by **Node.js, Express, 
 ### Frontend Setup 
 
 1. Navigate to the frontend directory
+```cd client```
 2. Install dependencies
+```npm install```
 3. Start the development server
+```npm start```
 
 ### Project Setup
 
