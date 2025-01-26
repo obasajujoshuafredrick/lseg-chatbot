@@ -1,0 +1,15 @@
+{
+  "name": "lseg-chatbot",
+  "version": "1.0.0",
+  "description": "Stock Exchange ChatBot",
+  "main": "index.js",
+  "repository": "git@github.com:obasajujoshuafredrick/lseg-chatbot.git",
+  "author": "(Joshua Obasaju <obasajujoshuafredrick@gmail.com>)",
+  "license": "MIT",
+  "scripts": {
+    "build-server": "cd server && yarn build ",
+    "build-client": "cd client && yarn build",
+    "start-server": "cd server && yarn dev",
+    "start-client": "cd client && yarn start"
+  }
+}
