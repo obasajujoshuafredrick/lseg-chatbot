@@ -68,15 +68,22 @@ This project is a **real-time chat application** powered by **Node.js, Express, 
 
 1. Navigate to the frontend directory
 
-```cd client```
+```
+cd client
+```
 
 2. Install dependencies
 
-```npm install```
+```
+npm install
+```
 
 3. Start the development server
 
-```npm start```
+```
+npm start
+
+```
 
 
 ### Project Setup
