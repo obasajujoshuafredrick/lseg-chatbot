@@ -122,6 +122,9 @@ The state contains the logic for the state machine
 
 MessageBox contains the two component to display both bot and user messages.
 
+
+![Design](drawing.png)
+
 ## Future Improvement
 
 ### 1. Scalability
